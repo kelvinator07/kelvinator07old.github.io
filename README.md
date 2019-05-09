@@ -14,7 +14,7 @@ So I sat down one night and created this **Dev Landing Page**. Feel free to fork
 
 Dev Landing Page comes in 9 **material themes**.
 
-![9 Material Themes](https://image.ibb.co/jJVKCn/dev_landing_page_themes.jpg)
+# Blue, Red, Green, White Background Colors. 
 
 If none of these themes fit within your taste, it's quite easy to customize and create your own too. 
 
